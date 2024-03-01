@@ -6,3 +6,5 @@
 5. use BEM architecture
 6. add a digital clock
 7. deploy the project on netlify on share the link in the excel sheet
+
+   ##deployment link: https://snazzy-pastelito-6a4ee8.netlify.app/
