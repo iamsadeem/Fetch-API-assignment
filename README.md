@@ -8,4 +8,4 @@
 7. deploy the project on netlify & share the link in the excel sheet.
 
 ---
-### *deployment link:* https://snazzy-pastelito-6a4ee8.netlify.app/
+*deployment link:* https://snazzy-pastelito-6a4ee8.netlify.app/
